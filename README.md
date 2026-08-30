@@ -2,6 +2,9 @@
 
 A comprehensive, professional-grade Excel dashboard built to analyze HR data, employee compensation, department distribution, and workforce metrics. This project demonstrates advanced data analysis and visualization techniques using Microsoft Excel.
 
+## 📷 Dashboard Preview
+![Salary Analysis Dashboard Preview](Dashboard_screen.png)
+
 ## 🚀 Project Overview
 This project simulates real-world HR data analytics to provide human resources management with actionable insights regarding employee salaries, departmental performance, experience impact, and educational background distribution.
 
@@ -26,8 +29,5 @@ This project simulates real-world HR data analytics to provide human resources m
 * **Analysis & Pivot Table Sheets**: Aggregated data models powering the visualizations.
 * **Dashboard Sheet**: The main interactive executive control panel.
 
-## 📷 Dashboard Preview
-![Salary Analysis Dashboard Preview](Dashboard_screen.png)
-
 ---
-Developed by **Mohamed Elzewaidi** | [LinkedIn Profile](https://www.linkedin.com) | [GitHub Profile](https://github.com)
+Developed by **Mohamed Elzewaidi** | [LinkedIn Profile]((https://www.linkedin.com/in/mohamed-mahmoud-elzewaidi/)) | [GitHub Profile]((https://github.com/Elzewaidi/)](https://github.com/Elzewaidi))
